@@ -15,5 +15,11 @@ This challenge required me to refactor an exsiting webpage to make it accessible
         - added/corrected href
     5. Condensed duplicated in css.style
 
+## Screenshot 
+
+    ![screenshot of deployed site](https://photos.app.goo.gl/FHbtTsXG9GdDKxCk9)
 
 
+## Link 
+
+     https://luvthatduck.github.io/horiseon-silver-octo-tribble/   
